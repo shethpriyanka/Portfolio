@@ -22,11 +22,11 @@
     --bg-gradient-yellow-2: linear-gradient(135deg, #4eb1bc 0%, hsla(35, 100%, 68%, 0) 59.86%), hsl(301.98deg 10.59% 93.55%);
     --border-gradient-onyx: linear-gradient(to bottom right, #3ec0de 0%, hsla(0, 0%, 25%, 0) 50%);
     --text-gradient-yellow: linear-gradient(to right, hsl(0deg 75.81% 76.41%), #f44242);
---jet: #fff;
+ --jet: #fff;
     --onyx: #e59c9c;
-    --eerie-black-1: #eecaca;
-    --eerie-black-2: #fff;
-    --smoky-black: #dbe0ff;
+    --eerie-black-1: #fff;
+    --eerie-black-2: hsl(348.48deg 24.65% 91.3%);
+    --smoky-black: #fff;
     --white-1: #fff;
     --white-2: #000;
     --orange-yellow-crayola: hsl(0deg 32.37% 59.03%);
