@@ -23,11 +23,12 @@
 
   /* gradient */
 
-  --bg-gradient-onyx: linear-gradient(
+ --bg-gradient-onyx: linear-gradient(
     to bottom right, 
     hsl(240, 1%, 25%) 3%, 
-    hsl(0, 0%, 19%) 97%
+    hsl(0, 0%, 100%) 97%
   );
+
   --bg-gradient-jet: linear-gradient(
     to bottom right, 
     hsla(240, 1%, 18%, 0.251) 0%, 
