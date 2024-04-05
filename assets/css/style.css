@@ -1,4 +1,3 @@
-To change the entire CSS from a black background to white, you need to update the `--smoky-black` and `--eerie-black-*` custom properties to white (`hsl(0, 0%, 100%)`) and adjust the text colors accordingly. Here's the modified CSS:
 
 ```css
 /*-----------------------------------*\
