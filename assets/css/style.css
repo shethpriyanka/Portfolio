@@ -402,7 +402,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: #ffff;
+  background: #f8f8f8;
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
@@ -964,7 +964,7 @@ main {
 }
 
 .project-category {
-  color: var(--light-gray-70);
+  color: #2563eb;
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
