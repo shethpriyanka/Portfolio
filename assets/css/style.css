@@ -16,8 +16,6 @@
 \*-----------------------------------*/
 
 :root {
-
-	:root {
     --bg-gradient-onyx: linear-gradient(to bottom right, #d9e67d 3%, hsl(0, 0%, 100%) 97%);
     --bg-gradient-jet: linear-gradient(to bottom right, hsl(240deg 50.89% 70.83% / 25.1%) 0%, hsl(240deg 93.86% 78.4% / 0%) 100%), #feffff;
     --bg-gradient-yellow-1: linear-gradient(to bottom right, hsl(270.65deg 10.79% 80.09%) 0%, hsla(36, 100%, 69%, 0) 50%);
