@@ -25,7 +25,7 @@
  --jet: #fff;
     --onyx: #e59c9c;
     --eerie-black-1: #fff;
-   --eerie-black-2: hsl(235.45deg 24.65% 91.3%);
+   --eerie-black-2: hsl(235.45deg 51.8% 85.58%);
  --smoky-black: #dff6eb;
     --white-1: #fff;
     --white-2: #000;
@@ -964,7 +964,7 @@ main {
 }
 
 .project-category {
-  color: #2563eb;
+  color: #eb2a25;
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
