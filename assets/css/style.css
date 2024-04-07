@@ -23,11 +23,12 @@
     --border-gradient-onyx: linear-gradient(to bottom right, #3ec0de 0%, hsla(0, 0%, 25%, 0) 50%);
     --text-gradient-yellow: linear-gradient(to right, hsl(0deg 75.81% 76.41%), #f44242);
  --jet: #fff;
-    --onyx: #e59c9c;
+	--onyx: #e59c9c;
     --eerie-black-1: #fff;
-   --eerie-black-2: hsl(235.45deg 51.8% 85.58%);
- --smoky-black: #dff6eb;
+    --eerie-black-2: #fbfbfb;
+    --smoky-black: hsl(235.45deg 51.06% 92.86%);
     --white-1: #fff;
+   
     --white-2: #000;
     --orange-yellow-crayola: hsl(0deg 32.37% 59.03%);
     --vegas-gold: hsl(336.61deg 38.03% 44.95%);
